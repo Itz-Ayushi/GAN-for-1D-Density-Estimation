@@ -43,6 +43,8 @@ The pipeline maps environmental features through a personalized non-linear trans
 ## 📊 5. Visualization
 * **KDE Mapping:** PDF plotted using KDE on GAN-generated samples.
 * **Output:** Smooth, realistic density curves representing the learned manifold.
+  <img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/83f2bdaa-0be5-4d96-bfdb-b5d4bbe65aeb" />
+
 
 
 
